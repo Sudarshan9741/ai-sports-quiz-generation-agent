@@ -205,9 +205,7 @@ Add your screenshots in the `assets/` folder and reference them here.
 
 **Role:** MCA Student | AI & Machine Learning Enthusiast
 
-**GitHub:** Add placeholder
 
-**LinkedIn:** Add placeholder
 
 
 
