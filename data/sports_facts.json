@@ -1,0 +1,130 @@
+[
+    {
+        "sport": "Cricket",
+        "fact": "The first official Test match was played in 1877 between Australia and England at the Melbourne Cricket Ground."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "Sachin Tendulkar is the highest run scorer in international cricket."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "The ICC Cricket World Cup is held every four years."
+    },
+    {
+        "sport": "Cricket",
+        "fact": "India won the ICC Men's Cricket World Cup in 1983 under Kapil Dev."
+    },
+    {
+        "sport": "Football",
+        "fact": "The FIFA World Cup was first held in 1930 in Uruguay."
+    },
+    {
+        "sport": "Football",
+        "fact": "Brazil has won the FIFA World Cup five times."
+    },
+    {
+        "sport": "Football",
+        "fact": "A standard football match lasts 90 minutes."
+    },
+    {
+        "sport": "Football",
+        "fact": "The UEFA Champions League is Europe's top club football competition."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "The Thomas Cup is the world championship for men's badminton teams."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "India won its first Thomas Cup title in 2022."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "Badminton became an Olympic sport in 1992."
+    },
+    {
+        "sport": "Badminton",
+        "fact": "PV Sindhu won India's first Olympic silver medal in badminton."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "Wimbledon is the oldest tennis tournament in the world."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "There are four Grand Slam tournaments each year."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "The Australian Open is played on hard courts."
+    },
+    {
+        "sport": "Tennis",
+        "fact": "Rafael Nadal has won multiple French Open titles."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "Basketball was invented by James Naismith in 1891."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "An NBA game consists of four quarters."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "The basket is 10 feet above the ground."
+    },
+    {
+        "sport": "Basketball",
+        "fact": "The NBA is the world's premier professional basketball league."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "Field hockey is India's national game according to popular belief, although it has no officially declared national sport."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "India has won multiple Olympic gold medals in field hockey."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "A hockey team has eleven players on the field."
+    },
+    {
+        "sport": "Hockey",
+        "fact": "The Hockey World Cup is organized by the International Hockey Federation."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "Volleyball was invented by William G. Morgan in 1895."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "A volleyball team has six players on the court."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "A match is generally played as the best of five sets."
+    },
+    {
+        "sport": "Volleyball",
+        "fact": "Volleyball became an Olympic sport in 1964."
+    },
+    {
+        "sport": "Table Tennis",
+        "fact": "Table tennis is also known as ping pong."
+    },
+    {
+        "sport": "Table Tennis",
+        "fact": "A table tennis game is usually played to 11 points."
+    },
+    {
+        "sport": "Table Tennis",
+        "fact": "The International Table Tennis Federation governs the sport."
+    },
+    {
+        "sport": "Table Tennis",
+        "fact": "Table tennis became an Olympic sport in 1988."
+    }
+]
